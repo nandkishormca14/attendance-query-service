@@ -67,6 +67,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>attendance-query-service</finalName>
 	</build>
 
 </project>
